@@ -15,13 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmirMoghadamFalahi&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmirMoghadamFalahi&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmirMoghadamFalahi&layout=compact&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
-
-<a href="https://github.com/AmirMoghadamFalahi/github-readme-stats">
-  <img align="center" padding-right=20 src="https://github-readme-stats.vercel.app/api?username=AmirMoghadamFalahi&count_private=true&show_icons=true&theme=radical" />
-</a>
-<a href="https://github.com/AmirMoghadamFalahi/convoychat">
-  <img align="center" padding-left=20 src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirMoghadamFalahi&layout=compact&count_private=true&show_icons=true&theme=radical" />
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmirMoghadamFalahi&layout=compact&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
