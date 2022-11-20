@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AmirMoghadamFalahi&count_private=true&show_icons=true&theme=radical)](https://github.com/AmirMoghadamFalahi)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmirMoghadamFalahi&layout=compact&count_private=true&show_icons=true&theme=radical)](https://github.com/AmirMoghadamFalahi)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AmirMoghadamFalahi&theme=radical)](https://git.io/streak-stats)
