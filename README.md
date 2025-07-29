@@ -60,3 +60,15 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=AmirMoghadamFalahi&style=flat-square&color=58A6FF" alt="Profile Views" />
 </div>
+
+---
+
+## About My Activity
+
+> **Note:** The stats above show only public repository activity. I also contribute extensively to private repositories and enterprise projects, which aren't visible in these public statistics.
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Total%20Repositories-20+-blue?style=for-the-badge&logo=github" alt="Total Repositories" />
+  <img src="https://img.shields.io/badge/Active%20Projects-10+-green?style=for-the-badge&logo=github" alt="Active Projects" />
+  <img src="https://img.shields.io/badge/Years%20Coding-5+-orange?style=for-the-badge&logo=github" alt="Years Coding" />
+</div>
