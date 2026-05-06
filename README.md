@@ -15,8 +15,8 @@
 ### 🧠 About me
 
 - 🐍 Started in **Python**, **Machine Learning** and **Computer Vision** — published work on **Faster R-CNN for Page Object Detection** and **Singular Spectrum Analysis** for time-series forecasting
-- 🤖 Now building production **AI agents**, **RAG pipelines** and **knowledge bases** in TypeScript at [@theblockbrain](https://github.com/theblockbrain)
-- 🔎 Comfortable across the stack: vector search on **MongoDB Atlas**, agent orchestration with **Mastra**, CRM integrations (**SAP**, **MS Dynamics**, **Salesforce**), and document processing with **AWS Textract**
+- 🤖 Now building production **AI agents**, **RAG pipelines** and **knowledge bases** in TypeScript
+- 🔎 Comfortable across the stack: vector search on **MongoDB Atlas**, agent orchestration, enterprise integrations (**SAP**, **MS Dynamics**, **Salesforce**), and document processing with **AWS Textract**
 - 💬 Ask me about deep learning, retrieval at scale, embeddings, or making LLM agents behave
 - 📫 Reach me on [Twitter](https://twitter.com/Amirmghm) or [LinkedIn](https://www.linkedin.com/in/amir-moghadamfalahi)
 
@@ -46,15 +46,14 @@
 
 ---
 
-### 🚀 What I'm building right now
+### 🚀 What I'm working on
 
-At **[theblockbrain/botticelli](https://github.com/theblockbrain/botticelli)** I work across the AI agent platform — over **100 merged PRs** in the past year. A few highlights:
+Currently focused on production **AI agent platforms** — retrieval, knowledge bases at scale, and enterprise integrations. Recent areas of focus:
 
-- **Knowledge Base v2 migration** — designed and shipped the dispatch layer between v1 and v2 KBs, atomic two-store sync through Blocky, and a flag-gated catalog with backend discriminator
-- **RAG retrieval at scale** — pushed `documentId` filters into Atlas `$vectorSearch` / `$search` pipeline stages, restored top-K=200 retrieval, honored per-KB embedding dimensions at runtime
-- **Agent tooling** — built the code-execution tool (Azure code interpreter), refactored knowledge-management tools, added folder-structure tool, and a unified `/api/v1/search` endpoint
-- **CRM integrations** — SAP (2-step SAML auth, generic tools, visit tools), MS Dynamics (custom entities, tenant-wide config), Salesforce
-- **Auth & infra** — multi-audience M2M tokens in `libs/auth`, idempotent MongoDB `vectorSearch` migrations, fixed esbuild/go-stdlib CVEs
+- **Retrieval at scale** — vector + hybrid search on MongoDB Atlas, flexible embedding dimensions, top-K tuning, and document-level filtering inside the search pipeline
+- **AI agent tooling** — code-execution tools, knowledge-management tools, agent orchestration patterns
+- **Enterprise integrations** — SAP (2-step SAML auth), MS Dynamics (custom entities, tenant-wide configuration), Salesforce
+- **Auth & infra** — multi-audience M2M tokens, idempotent MongoDB migrations, document processing pipelines (AWS Textract, PDFs, images)
 
 ---
 
