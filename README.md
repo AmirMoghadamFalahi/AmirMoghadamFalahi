@@ -15,7 +15,7 @@
 ### 🧠 About me
 
 - 🐍 Started in **Python**, **Machine Learning** and **Computer Vision** — published work on **Faster R-CNN for Page Object Detection** and **Singular Spectrum Analysis** for time-series forecasting
-- 🤖 Now building production **AI agents**, **RAG pipelines** and **knowledge bases** in TypeScript
+- 🤖 Currently at [@theblockbrain](https://github.com/theblockbrain), building production **AI agents**, **RAG pipelines** and **knowledge bases** in TypeScript
 - 🔎 Comfortable across the stack: vector search on **MongoDB Atlas**, agent orchestration, enterprise integrations (**SAP**, **MS Dynamics**, **Salesforce**), and document processing with **AWS Textract**
 - 💬 Ask me about deep learning, retrieval at scale, embeddings, or making LLM agents behave
 - 📫 Reach me on [Twitter](https://twitter.com/Amirmghm) or [LinkedIn](https://www.linkedin.com/in/amir-moghadamfalahi)
@@ -48,7 +48,7 @@
 
 ### 🚀 What I'm working on
 
-Currently focused on production **AI agent platforms** — retrieval, knowledge bases at scale, and enterprise integrations. Recent areas of focus:
+At [@theblockbrain](https://github.com/theblockbrain) I work on production **AI agent platforms** — retrieval, knowledge bases at scale, and enterprise integrations. Recent areas of focus:
 
 - **Retrieval at scale** — vector + hybrid search on MongoDB Atlas, flexible embedding dimensions, top-K tuning, and document-level filtering inside the search pipeline
 - **AI agent tooling** — code-execution tools, knowledge-management tools, agent orchestration patterns
